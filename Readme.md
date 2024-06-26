@@ -23,3 +23,4 @@ flask --app flaskr run
 - http://127.0.0.1:5000/auth/login
 
 You shoud see the main page:
+![Main Page](Readme_pngs/main_page.png)
